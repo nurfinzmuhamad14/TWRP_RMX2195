@@ -6,6 +6,3 @@
 > 
 > Testing orangefox recovery
 > DWYOR,
-
-Download disini.
-[Release](https://github.com/nurfinzmuhamad14/OrangeFox-Avicii-builder/releases/tag/9725557246/).
